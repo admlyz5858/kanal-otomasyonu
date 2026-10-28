@@ -1,6 +1,10 @@
 # Kanal Otomasyonu
 
+**[Privacy Policy](PRIVACY.md) · [Terms of Use](TERMS.md)**
+
 Kanal Otomasyonu is a private, internal tool used by a single YouTube creator to manage their own YouTube channels. It runs only on the owner's own Android phone. It is not offered, distributed or sold to anyone else, and it has no other users.
+
+The tool uses **YouTube API Services**. By using it, users agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). See also the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ## What it does
 
@@ -23,16 +27,6 @@ Nothing is uploaded or changed without the owner's approval.
 - Deep Focus
 - ThYsf
 - Oyun Zamanı
-
-## Terms of use
-
-This tool uses YouTube API Services. By using it, users agree to be bound by the YouTube Terms of Service: https://www.youtube.com/t/terms
-
-The only user of the tool is the channel owner.
-
-## Privacy
-
-See the [Privacy Policy](PRIVACY.md).
 
 ## Contact
 
